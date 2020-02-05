@@ -1,1 +1,1 @@
-onsle.log('hello');
+console.log('hello');
